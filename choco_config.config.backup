@@ -14,7 +14,7 @@
   <package id="em-client" version="8.2.1659" />
   <package id="geforce-game-ready-driver" version="497.09" />
   <package id="git.install" version="2.34.1" />
-  <package id="github-desktop" version="2.9.4" />
+  <package id="github-desktop" version="2.9.5" />
   <package id="hwinfo.install" version="7.14" />
   <package id="icue" version="4.17.244" />
   <package id="KB2919355" version="1.0.20160915" />
@@ -27,8 +27,8 @@
   <package id="malwarebytes" version="4.4.8.238" />
   <package id="neovim" version="0.6.0" />
   <package id="notepadplusplus.install" version="8.1.9.2" />
-  <package id="postman" version="9.1.5" />
-  <package id="powertoys" version="0.51.0" />
+  <package id="postman" version="9.3.1" />
+  <package id="powertoys" version="0.51.1" />
   <package id="python3" version="3.10.0" />
   <package id="rufus" version="3.17" />
   <package id="slack" version="4.22.0" />
