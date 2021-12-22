@@ -14,6 +14,7 @@
   <package id="dotnetcore-3.1-desktopruntime" version="3.1.22" />
   <package id="dotnetcore-desktopruntime" version="3.1.22" />
   <package id="em-client" version="8.2.1659" />
+  <package id="epicgameslauncher" version="1.1.298.0" />
   <package id="geforce-game-ready-driver" version="497.09" />
   <package id="git.install" version="2.34.1" />
   <package id="github-desktop" version="2.9.6" />
