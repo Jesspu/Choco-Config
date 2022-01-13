@@ -13,6 +13,7 @@
   <package id="DotNet4.5.2" version="4.5.2.20140902" />
   <package id="dotnetcore-3.1-desktopruntime" version="3.1.22" />
   <package id="dotnetcore-desktopruntime" version="3.1.22" />
+  <package id="eartrumpet" version="2.1.9.0" />
   <package id="epicgameslauncher" version="1.1.298.0" />
   <package id="etcher" version="1.7.3" />
   <package id="geforce-game-ready-driver" version="497.29" />
@@ -39,7 +40,7 @@
   <package id="steelseries-engine" version="12.2.0" />
   <package id="streamdeck" version="5.0.1.14252" />
   <package id="th-ch-youtube-music" version="1.15.0" />
-  <package id="thunderbird" version="91.4.1" />
+  <package id="thunderbird" version="91.5.0" />
   <package id="vcredist140" version="14.30.30704" />
   <package id="vcredist2015" version="14.0.24215.20170201" />
   <package id="vscode.install" version="1.63.2" />
