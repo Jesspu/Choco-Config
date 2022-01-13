@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
-  <package id="7zip.install" version="21.6" />
+  <package id="7zip.install" version="21.7" />
   <package id="autohotkey" version="1.1.33.10" />
   <package id="autohotkey.install" version="1.1.33.10" />
   <package id="chocolatey" version="0.11.3" />
@@ -13,13 +13,13 @@
   <package id="DotNet4.5.2" version="4.5.2.20140902" />
   <package id="dotnetcore-3.1-desktopruntime" version="3.1.22" />
   <package id="dotnetcore-desktopruntime" version="3.1.22" />
-  <package id="em-client" version="8.2.1659" />
   <package id="epicgameslauncher" version="1.1.298.0" />
-  <package id="geforce-game-ready-driver" version="497.09" />
+  <package id="etcher" version="1.7.3" />
+  <package id="geforce-game-ready-driver" version="497.29" />
   <package id="git.install" version="2.34.1" />
   <package id="github-desktop" version="2.9.6" />
-  <package id="hwinfo.install" version="7.14" />
-  <package id="icue" version="4.18.209" />
+  <package id="hwinfo.install" version="7.16" />
+  <package id="icue" version="4.19.191" />
   <package id="KB2919355" version="1.0.20160915" />
   <package id="KB2919442" version="1.0.20160915" />
   <package id="KB2999226" version="1.0.20181019" />
@@ -28,19 +28,20 @@
   <package id="KB3063858" version="1.0.0" />
   <package id="lghub" version="2021.7.91" />
   <package id="malwarebytes" version="4.5.1.258" />
-  <package id="neovim" version="0.6.0" />
-  <package id="notepadplusplus.install" version="8.1.9.3" />
+  <package id="neovim" version="0.6.1" />
+  <package id="notepadplusplus.install" version="8.2" />
   <package id="postman" version="9.4.1" />
-  <package id="powertoys" version="0.51.1" />
+  <package id="powertoys" version="0.53.1" />
   <package id="python3" version="3.10.1" />
   <package id="rufus" version="3.17" />
   <package id="slack" version="4.23.0" />
   <package id="steam-client" version="2.10.91.91" />
   <package id="steelseries-engine" version="12.2.0" />
   <package id="streamdeck" version="5.0.1.14252" />
-  <package id="th-ch-youtube-music" version="1.14.0" />
+  <package id="th-ch-youtube-music" version="1.15.0" />
+  <package id="thunderbird" version="91.4.1" />
   <package id="vcredist140" version="14.30.30704" />
   <package id="vcredist2015" version="14.0.24215.20170201" />
   <package id="vscode.install" version="1.63.2" />
-  <package id="webstorm" version="2021.2.2" />
+  <package id="webstorm" version="2021.3.1" />
 </packages>
